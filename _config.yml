@@ -23,8 +23,8 @@ color:
     - '#e4ded2'
   brandStrength: 0
   lightness: 0
-  saturation: 1
-  rhythmicContrast: 0.25
+  saturation: 0
+  rhythmicContrast: 0
 purpose:
   - name: shares
     item: 'null'
