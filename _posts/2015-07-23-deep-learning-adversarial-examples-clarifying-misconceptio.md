@@ -51,7 +51,7 @@ app_links: []
 isBasedOnUrl: 'http://www.kdnuggets.com/2015/07/deep-learning-adversarial-examples-misconceptions.html'
 title: Deep Learning Adversarial Examples - Clarifying Misconceptions
 datePublished: '2015-07-23T21:57:39.775Z'
-dateModified: '2015-07-23T21:57:39.775Z'
+dateModified: '2015-07-24T18:39:33.314Z'
 sourcePath: _posts/2015-07-23-deep-learning-adversarial-examples-clarifying-misconceptio.md
 published: true
 _context: 'http://schema.org'
