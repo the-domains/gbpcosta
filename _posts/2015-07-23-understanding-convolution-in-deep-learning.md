@@ -33,7 +33,7 @@ app_links: []
 isBasedOnUrl: 'https://timdettmers.wordpress.com/2015/03/26/convolution-deep-learning/#more-192'
 title: Understanding Convolution in Deep Learning
 datePublished: '2015-07-23T21:40:59.566Z'
-dateModified: '2015-07-23T21:40:59.576Z'
+dateModified: '2015-07-24T18:39:33.613Z'
 sourcePath: _posts/2015-07-23-understanding-convolution-in-deep-learning.md
 published: true
 _context: 'http://schema.org'
