@@ -33,7 +33,7 @@ app_links: []
 isBasedOnUrl: 'http://recode.net/2015/07/15/ai-conspiracy-the-scientists-behind-deep-learning/'
 title: "Welcome to the AI Conspiracy: The 'Canadian Mafia' Behind Tech's Latest Craze"
 datePublished: '2015-07-23T21:57:39.782Z'
-dateModified: '2015-07-23T21:57:39.782Z'
+dateModified: '2015-07-24T18:39:33.400Z'
 sourcePath: _posts/2015-07-23-welcome-to-the-ai-conspiracy-the-canadian-mafia-behind-te.md
 published: true
 _context: 'http://schema.org'
