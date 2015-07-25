@@ -22,9 +22,9 @@ color:
     - '#a1c6dd'
     - '#335e64'
   brandStrength: 0
-  lightness: 0.875
+  lightness: 0.6875
   saturation: 0.875
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose:
   - name: shares
     item: 'null'
