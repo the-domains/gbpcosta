@@ -22,8 +22,8 @@ color:
     - '#44241d'
     - '#caa884'
   brandStrength: 0.75
-  lightness: 0.6875
-  saturation: 0.125
+  lightness: 0.625
+  saturation: 0.25
   rhythmicContrast: 0.5
 purpose:
   - name: shares
