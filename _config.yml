@@ -1,4 +1,4 @@
-name: null
+name: gbpcosta
 favicon: null
 layout_spectrum: 0.11713
 typography_spectrum: 0.66517
@@ -21,7 +21,7 @@ color:
     - '#fcfffc'
     - '#44241d'
     - '#caa884'
-  brandStrength: 0.75
+  brandStrength: 0.5
   lightness: 0.5625
   saturation: 0.25
   rhythmicContrast: 0.25
