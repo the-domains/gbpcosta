@@ -3,16 +3,16 @@
     <channel>
         <title><![CDATA[gbpcosta]]></title>
         <description><![CDATA[gbpcosta]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gbpcosta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 22 Aug 2015 17:07:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Sep 2015 15:56:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gbpcosta/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c2e5e67-ce6a-47e2-95c4-8a384f6941e8.jpg">]]></description>
-            <link>undefined991bad9e-20e2-4333-aa47-32c5de13a6db/index.html</link>
+            <link>https://thegrid.ai/gbpcosta/991bad9e-20e2-4333-aa47-32c5de13a6db/index.html</link>
             <guid isPermaLink="false">991bad9e-20e2-4333-aa47-32c5de13a6db</guid>
-            <pubDate>Sat, 22 Aug 2015 17:07:38 GMT</pubDate>
+            <pubDate>Thu, 03 Sep 2015 15:55:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
